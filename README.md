@@ -1,5 +1,10 @@
-## ![me core](https://i.pinimg.com/736x/93/4a/b6/934ab6354acc0f1c6cea727391286109.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/736x/1f/69/69/1f6969a74497ebaf8921d3c06dd6eab6.jpg" />
+</p>
 
+<p align="center">
+  <img src="https://i.postimg.cc/Bnkc8HYC/castiel-stamp-3.png" />
+</p>
 <!--
 **SillyBubblez/SillyBubblez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
